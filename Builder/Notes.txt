@@ -1,0 +1,2 @@
+﻿Builder pattern is for allowing piece-wise object construction.
+It adds convenience for building complex objects.

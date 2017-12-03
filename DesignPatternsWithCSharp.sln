@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{931AA2F5-EAD3-4F82-80C9-AD6A2DF7F79E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{B8149D63-13B2-4B44-8278-A64510CE97F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{931AA2F5-EAD3-4F82-80C9-AD6A2DF7F79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{931AA2F5-EAD3-4F82-80C9-AD6A2DF7F79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{931AA2F5-EAD3-4F82-80C9-AD6A2DF7F79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8149D63-13B2-4B44-8278-A64510CE97F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8149D63-13B2-4B44-8278-A64510CE97F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8149D63-13B2-4B44-8278-A64510CE97F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8149D63-13B2-4B44-8278-A64510CE97F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
