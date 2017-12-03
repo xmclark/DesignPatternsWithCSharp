@@ -1,0 +1,2 @@
+﻿There are no such things as friends in C# so sharing private members in things outside the class is less obvious.
+Instead, what can be done is similar to method factories except using nested namespaces to help with intended scope.
