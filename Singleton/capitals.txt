@@ -1,0 +1,20 @@
+﻿Tokyo
+332
+New York
+178
+Sao Paulo
+177
+Seoul
+175
+Mexico City
+174
+Osaka
+164
+Manilla
+148
+Mumbai
+144
+Delhi
+143
+Jakarta
+143
