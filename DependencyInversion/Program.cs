@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace DependencyInversion
 {
-    // a generic interface that abstracts the lower level details, all the user cares about is this interface
+    // an interface that abstracts the lower level details, all the user cares about is this interface
     public interface IRelationshipBrowser
     {
         IEnumerable<Person> FindAllChildrenOf(string name);

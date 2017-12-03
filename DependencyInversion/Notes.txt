@@ -1,0 +1,4 @@
+﻿Separate high-level and low-level code. 
+The high-level code or APIs should not be dependent upon underlying data stores and types.
+We should keep everything abstract by using interfaces and generic interfaces.
+
