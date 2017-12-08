@@ -1,0 +1,3 @@
+﻿Composite helps with working with scalar objects and certainly monoids
+It allows us to abstract away when working with individual objects or collections of objects
+e.g. we could tell a single bird object to fly, or we could tell a whole collection of bird objects to fly, interface is the same
